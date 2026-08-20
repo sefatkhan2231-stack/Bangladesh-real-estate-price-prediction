@@ -1,0 +1,277 @@
+feature,mean_abs_shap
+locality_Savar,0.41298726
+building_type_Residential Plot,0.2967477
+locality_Lalmatia,0.2422325
+zone_Gulshan,0.22067036
+locality_Keraniganj,0.21977149
+locality_Sreepur,0.20998201
+zone_Keraniganj,0.20453435
+building_type_Office,0.1835689
+locality_Purbachal,0.16806783
+building_type_Commercial Plot,0.15379356
+zone_Banani,0.15292126
+locality_Dhanmondi,0.14289923
+locality_22 No. Enayet Bazaar Ward,0.1404036
+city_Khulna,0.13163434
+locality_Dumni,0.13015328
+zone_Mohakhali,0.12977494
+zone_Hatirpool,0.12456915
+zone_Dakshin Khan,0.12030366
+area,0.11859869
+building_type_Others,0.10614608
+zone_Tejgaon,0.101546355
+zone_Purbachal,0.101268075
+locality_Hathazari,0.08696081
+building_type_Duplex,0.08582164
+locality_Maniknagar,0.08548394
+locality_Nikunja,0.08483675
+locality_Cantonment,0.07760142
+zone_Bashundhara R/A,0.076507665
+zone_Ramna,0.072613694
+zone_Motijheel,0.07024889
+unclassify_amenity_count,0.0679147
+maintenance_or_cleaning_amenity_count,0.06535004
+locality_Jamal Khan,0.06470209
+locality_Bashundhara R-A,0.06431667
+expendable_amenity_count,0.06421666
+locality_Lalbagh,0.063561626
+locality_Kotwali,0.063243374
+locality_Patenga,0.061097153
+division_Sylhet,0.0581147
+locality_DOHS Mirpur,0.05618635
+zone_Sub-district of Gazipur,0.054459605
+zone_Savar,0.054355606
+locality_Mugdapara,0.054144252
+locality_Khilkhet,0.050428048
+locality_15 No. Bagmoniram Ward,0.048515078
+locality_Demra,0.048255034
+total_amenities,0.046459332
+area_per_bedroom,0.046280466
+locality_Banglamotors,0.045988582
+locality_Badda,0.04456936
+locality_Gazipur Sadar Upazila,0.04384636
+locality_Tejgaon,0.04347423
+building_type_House,0.041709665
+locality_Uttara,0.041624203
+locality_Sutrapur,0.040285002
+locality_Uttar Khan,0.039423194
+zone_Dhanmondi,0.038497634
+locality_Mohammadpur,0.037321042
+building_type_Building,0.03583751
+locality_9 No. North Pahartali Ward,0.033587676
+zone_Demra,0.033079304
+locality_Panchlaish,0.032517344
+zone_Sub-district of Dhaka,0.031010145
+num_bath_rooms,0.03054663
+locality_East Nasirabad,0.030493578
+building_type_Shop,0.03032422
+locality_Muradpur,0.029676868
+locality_Khulna City,0.029618818
+locality_Basabo,0.029553784
+zone_Sutrapur,0.028861567
+num_bed_rooms,0.028633947
+log_area,0.02861605
+locality_4 No Chandgaon Ward,0.027547838
+building_nature_Commercial,0.026988164
+zone_Jatrabari,0.026281746
+city_Manikganj,0.026130943
+locality_Shantinagar,0.025351945
+division_Rajshahi,0.024869358
+locality_New Market,0.02429158
+city_Gazipur,0.024235534
+locality_Vatara ,0.02182167
+security_amenity_count,0.020589951
+locality_Khulshi,0.019480074
+building_type_Apartment,0.018673848
+total_rooms,0.017406376
+locality_Kachukhet,0.01719159
+locality_16 No. Chawk Bazaar Ward,0.01693963
+locality_10 No. North Kattali Ward,0.01687314
+zone_Badda,0.016544322
+locality_Banashree,0.016493715
+locality_Halishahar,0.016316196
+locality_31 No. Alkoron Ward,0.016161956
+locality_Sylhet City,0.016069934
+city_Bogura,0.014706501
+locality_Aftabnagar,0.014539141
+locality_Kazir Dewri,0.01379474
+locality_Lal Khan Bazaar,0.013664515
+city_Dhaka,0.013508305
+city_Chattogram,0.013293052
+locality_Banani,0.0132362535
+zone_Old Dhaka,0.013140128
+locality_Ramna,0.012865945
+locality_Turag,0.012478433
+locality_Mohakhali Dohs,0.012324517
+locality_Kakrail,0.012162193
+locality_Double Mooring,0.011876889
+locality_Manikganj Sadar,0.011804055
+locality_Mohakhali,0.011714842
+locality_Ibrahimpur,0.011133952
+bath_bed_ratio,0.011061968
+locality_Bayazid,0.011037426
+city_Narayanganj City,0.010868653
+locality_Aftab Nagar,0.010762401
+locality_Maghbazar,0.01071982
+locality_Shahjahanpur,0.01059892
+zone_Mohammadpur,0.010465998
+locality_Khilgaon,0.0101677105
+zone_New Market,0.010148477
+locality_Banasree,0.009948784
+zone_Dhaka Cantonment,0.009840511
+locality_Bogura Sadar,0.009001225
+locality_Niketan,0.008885231
+locality_Mohammadpur ,0.008761179
+locality_Banani Dohs,0.008291976
+locality_Agargaon,0.008275199
+locality_Taltola,0.008073817
+zone_Hazaribagh,0.007668053
+locality_Gulshan,0.007562314
+city_Sylhet,0.007514799
+locality_Baridhara,0.007453749
+zone_Khilkhet,0.007223935
+locality_Mirpur,0.0070990254
+locality_DOHS Mohakhali,0.0070661767
+locality_Kafrul,0.0065820874
+locality_7 No. West Sholoshohor Ward,0.006426312
+zone_Sub-district of Narayanganj,0.006246212
+locality_Kathalbagan,0.006029777
+zone_Uttara,0.0056368085
+locality_Paltan,0.005620657
+zone_Mirpur,0.0055417493
+social_amenity_count,0.005457011
+locality_Narayanganj,0.005299357
+locality_Gulshan 1,0.0052093165
+city_Narayanganj,0.0049711647
+locality_Kalabagan,0.0049176007
+locality_Shyampur,0.004723833
+relaxation_amenity_count,0.004450618
+locality_Kuril,0.004362478
+locality_Bakalia,0.004328446
+locality_Hazaribag,0.0042004413
+zone_Shyamoli,0.003993701
+locality_Sholokbahar,0.003794567
+zone_Sub-district of Bogura,0.0035236783
+bedroom_not_applicable,0.0033631206
+locality_Uttara West,0.0033208134
+locality_33 No. Firingee Bazaar Ward,0.0030615723
+locality_Moghbazar,0.0030369214
+zone_Sub-district of Manikganj,0.002882781
+locality_Motijheel,0.002844574
+locality_Bashabo,0.0027686432
+division_Khulna,0.0027417443
+locality_Farmgate,0.0027030092
+locality_North Shahjahanpur,0.0025693974
+zone_Turag,0.002465134
+zone_Shabujbag,0.0022045064
+locality_Uttara East,0.002109623
+zone_Sub-district of Rajshahi,0.00201891
+locality_Lalbag,0.0020164181
+locality_Shyamoli,0.0019672157
+division_Chattogram,0.0018029424
+zone_Khilgaon,0.0017737214
+locality_Fatulla,0.0016328616
+locality_Rampura,0.0013497379
+locality_Wari,0.0012880169
+zone_Chattogram City,0.0012827334
+locality_Jalalabad Housing Society,0.0012698884
+locality_Gulshan 2,0.0011814885
+locality_Dakshin Khan,0.0010377883
+locality_Hatirpool,0.0009964097
+locality_Chattogram City,0.0009041809
+division_Dhaka,0.0008167173
+locality_DOHS Banani,0.0006849104
+locality_Shiddhirganj,0.0006639281
+locality_Shiddheswari,0.00064872956
+building_nature_Residential,0.00044333757
+city_Habiganj,0.000443191
+locality_Daskhinkhan,0.000439083
+zone_Sub-district of Chattogram,0.00038942034
+zone_Golapbag,0.00034681975
+locality_Bashundhara RA,0.00028240777
+zone_Mugdapara,0.00025819262
+locality_Nadda,0.00023983663
+locality_Malibagh,0.00019248888
+locality_Kamrangirchar,0.00016370666
+city_Cumilla,0.00011140343
+city_Chittagong,7.6469805e-05
+locality_Bangshal,5.9150407e-05
+locality_Kallaynpur,2.857796e-05
+locality_Joar Sahara,1.410309e-05
+locality_Baridhara Dohs,1.0571911e-05
+locality_32 No. Andarkilla Ward,4.985934e-06
+zone_Sylhet City,0.0
+locality_Hazaribag ,0.0
+zone_Sub-district of Sherpur,0.0
+zone_Sub-district of Kishoreganj,0.0
+service_staff_amenity_count,0.0
+zone_Sub-district of Cumilla,0.0
+zone_Sub-district of Habiganj,0.0
+zone_Sub-district of Narsingdi,0.0
+zone_Sub-district of Khulna,0.0
+zone_Sub-district of Rangpur,0.0
+locality_Jatra Bari,0.0
+locality_Eskaton,0.0
+locality_Kadamtali,0.0
+locality_Jatrabari,0.0
+zone_Sub-district of Satkhira,0.0
+locality_Sher E Bangla Nagar ,0.0
+locality_Shegunbagicha,0.0
+locality_Bandarban Sadar,0.0
+locality_Shah Ali,0.0
+locality_Railway Colony,0.0
+locality_Rajshahi City,0.0
+locality_Rangpur City,0.0
+locality_Riaj Uddin Bazar,0.0
+locality_Rupganj,0.0
+locality_Rupnagar,0.0
+locality_Shahbagh,0.0
+locality_Sherpur Sadar,0.0
+locality_Narsingdi Sadar,0.0
+locality_Pallabi ,0.0
+locality_Chandpur Sadar,0.0
+locality_Chandanpur,0.0
+locality_Kamrangir Char,0.0
+locality_Gazipur Sadar,0.0
+locality_Habiganj Sadar,0.0
+locality_Kalachandpur,0.0
+locality_Bhairab,0.0
+locality_Mugda,0.0
+locality_Cumilla City,0.0
+locality_DOHS Baridhara,0.0
+locality_Chandra,0.0
+locality_Chawkbazar,0.0
+locality_Sabujbag,0.0
+locality_Senpara Porbota,0.0
+locality_Barguna Sadar,0.0
+locality_Banglamotor,0.0
+division_Barisal,0.0
+locality_Adabor,0.0
+locality_Airport,0.0
+locality_West Khulshi,0.0
+locality_Zafrabad,0.0
+locality_Zindabazar,0.0
+locality_Uttar Lalkhan,0.0
+locality_Tongi,0.0
+locality_Siddeshwari,0.0
+locality_Bashundhara,0.0
+locality_29 No. West Madarbari Ward,0.0
+locality_Uttarkhan,0.0
+locality_30 No. East Madarbari Ward,0.0
+locality_36 Goshail Danga Ward,0.0
+division_Mymensingh,0.0
+division_Rangpur,0.0
+city_Rajshahi,0.0
+city_Sherpur,0.0
+city_Narsingdi,0.0
+city_Kishoreganj,0.0
+zone_Kurmitola,0.0
+city_Rangpur,0.0
+locality_11 No. South Kattali Ward,0.0
+city_Bandarban,0.0
+city_Barguna,0.0
+city_Chandpur,0.0
+zone_Sher-E-Bangla Nagar,0.0
+zone_Sub-district of Bandarban,0.0
+zone_Sub-district of Barguna,0.0
+zone_Sub-district of Chandpur,0.0

@@ -1,0 +1,17 @@
+{
+    "model_name": "XGBoost",
+    "target": "price",
+    "target_transformation": "log1p",
+    "prediction_inverse_transformation": "expm1",
+    "dataset": "Bangladesh Real Estate - Sale Properties",
+    "test_metrics": {
+        "MAE": 2286252.954861824,
+        "RMSE": 10935522.74051704,
+        "R2": 0.7213256327908358,
+        "Log_MAE": 0.16490162081229248,
+        "Log_RMSE": 0.27048535417347386,
+        "Log_R2": 0.8431616236882794
+    },
+    "num_features_after_preprocessing": 276,
+    "shap_samples": 1000
+}
