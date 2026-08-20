@@ -51,7 +51,16 @@ const BatchPrediction = () => {
   const [file, setFile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-  const [result, setResult] = useState(null); // { summary, results }
+  const [result, setResult] = useState<{
+    summary: { total_rows: number; successful: number; failed: number };
+    results: Array<{
+      row_index: number;
+      success: boolean;
+      data: Record<string, unknown>;
+      predicted_price?: number;
+      error?: string;
+    }>;
+  } | null>(null);
 
   const inputColumns = result?.results?.length
     ? Object.keys(result.results[0].data)
@@ -333,8 +342,8 @@ const BatchPrediction = () => {
 
           {result.results.length > PREVIEW_ROW_LIMIT && (
             <p className="text-xs text-slate-400 text-center">
-              Showing first {PREVIEW_ROW_LIMIT} of {result.results.length}{" "}
-              rows. Download the CSV for the full results.
+              Showing first {PREVIEW_ROW_LIMIT} of {result.results.length} rows.
+              Download the CSV for the full results.
             </p>
           )}
         </div>
