@@ -21,6 +21,7 @@ shap==0.52.0
 slicer==0.0.8
 
 # --- Utilities ---
+python-multipart==0.0.20
 python-dotenv==1.2.2
 requests==2.34.2
 tqdm==4.70.0
