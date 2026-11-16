@@ -1,3 +1,4 @@
+
 # 🏠 Bangladesh Real Estate Price Predictions
 
 An end-to-end machine learning web application that predicts real estate sale prices in Bangladesh using an **XGBoost** regression model. The project includes a **FastAPI** backend for serving predictions and model insights, and a **React (Vite + TypeScript)** frontend for interacting with the model — including single predictions, CSV batch predictions, and model explainability (SHAP) visualizations.
